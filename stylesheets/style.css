@@ -1,0 +1,16 @@
+body {
+	font-family: 'PT Serif', serif;
+	font-weight: 400;
+	font-size: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: #292929;
+	color: #c3c3c3;
+}
+h1 {
+	font-family: 'PT Serif Caption', serif;
+}
+
+img {
+	margin: 30px;
+}
